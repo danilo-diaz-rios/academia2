@@ -8,7 +8,7 @@ un tipo determinado. Es una simplificación del Abstract Factory, en la que la c
 concretos que usan algunos de los abstractos; según usemos una u otra hija de esta clase abstracta, tendremos
 uno u otro comportamiento.
 
-* Implementacion *
+* Implementacion 
 
  public class Factory {
 
@@ -31,7 +31,7 @@ uno u otro comportamiento.
 Para este caso tenemos una clase llamada factory, en el cual tenemos un metodo llamado ontener persona
 que nos permitira retornar un objeto de tipo, Estudiante, Profesor, Administrativo.
     
-#Metodo Singleton#
+# Metodo Singleton #
     
 es un patrón de diseño que permite restringir la creación de objetos pertenecientes a una clase o el valor de un 
 tipo a un único objeto.
