@@ -13,9 +13,10 @@ public class Factory {
             return new estudiante();
         }else if (tipo.equals("profesor")){
             return new profesor();
-        }else{
-            return new administrativo();
-        }
+        }else if (tipo.equals("administrativo")) {
+        return new administrativo();
+    }
+    return null;
 
 
     }
