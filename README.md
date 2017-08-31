@@ -8,7 +8,7 @@ un tipo determinado. Es una simplificación del Abstract Factory, en la que la c
 concretos que usan algunos de los abstractos; según usemos una u otra hija de esta clase abstracta, tendremos
 uno u otro comportamiento.
 
-* Implementacion: *
+* Implementacion *
 
  public class Factory {
 
@@ -38,7 +38,7 @@ tipo a un único objeto.
 
 Su intención consiste en garantizar que una clase sólo tenga una instancia y proporcionar un punto de acceso global a ella.
 
-*Implementacion:*
+* Implementacion *
 
 public class Singleton {
 
@@ -64,7 +64,7 @@ public class Singleton {
 se creo una clase llamada Singleton, que en esta clase se esta creando una instancia de memoria para asi poder hacer uso de 
 la clase MainActivity
 
-*Referencias*
-*https://es.wikipedia.org/wiki/Singleton
-*https://es.wikipedia.org/wiki/Factory_Method_(patr%C3%B3n_de_dise%C3%B1o)
+* Referencias *
+* https://es.wikipedia.org/wiki/Singleton
+* https://es.wikipedia.org/wiki/Factory_Method_(patr%C3%B3n_de_dise%C3%B1o)
 
