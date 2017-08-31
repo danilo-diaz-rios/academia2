@@ -1,4 +1,4 @@
-#DOCUMENTACION:#
+#DOCUMENTACION:
 
 #Metodo Factory#
 
